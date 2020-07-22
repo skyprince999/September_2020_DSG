@@ -1,6 +1,7 @@
 
 
 // Create a time series video. 
+// Check the markdown file to see the output gif (Sample_EarthEngine_TS.md)
 
 // Ram Setu bridge/ Adam's bridge 
 var startDate = ee.Date('2019');
